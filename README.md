@@ -1,3 +1,5 @@
+> **Unique:** Published VS Code extension audio-labeller, a fork of audio-preview adding labels as sibling text files and an active-learning view ranking clips by ASR WER/CER against ground truth, with waveform, spectrogram, and a WASM decoder.
+
 # audio-labeller
 
 You can play your audio file and preview its info on VS Code.  
